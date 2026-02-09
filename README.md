@@ -1,1 +1,1 @@
-# Agentic-AI-Scraper-General-Major-All-Campus-Websites
+# [id] [category_id] [name]	[slug] [description]
