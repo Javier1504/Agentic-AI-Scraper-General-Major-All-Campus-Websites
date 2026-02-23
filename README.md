@@ -1,1 +1,1 @@
-# [id]	[category_id]	[name]	[slug]	[description]	[skills]	[reasons]
+# Featuring : [id]	[category_id]	[name]	[slug]	[description]	[skills]	[reasons]
